@@ -1,0 +1,461 @@
+[
+    {
+        "id": "3651ee4a-9f53-4d8a-a5f1-52b23d84c0c4",
+        "repositoryTitle": "snap-stanford / Biomni",
+        "repositoryUrl": "https://github.com/snap-stanford/Biomni",
+        "businessIdea": "A health-tech company offering personalized healthcare solutions using the Biomni platform. This venture could provide a new approach to primary healthcare, with a digital assistant that could be consulted anytime, anywhere. It could analyze symptoms, previous medical history, and lifestyle information to give data-driven health advice, recommend treatment options or even suggest when to see a doctor. Additionally, it could be a valuable tool for healthcare professionals, aiding in diagnosis and decision-making and improving the efficiency of healthcare service delivery.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-13"
+    },
+    {
+        "id": "3fd0bade-3bef-4c10-b65d-58b4c07144f2",
+        "repositoryTitle": "open-telemetry / opentelemetry-go",
+        "repositoryUrl": "https://github.com/open-telemetry/opentelemetry-go",
+        "businessIdea": "Business Idea: \n\nDevelop a cloud-based application performance monitoring (APM) service that leverages the OpenTelemetry Go API and SDK. This service will provide real-time insights about the performance and health of client's applications, helping them identify bottlenecks, debug issues, and optimize performance. Advanced features could include predictive analytics for proactive problem-solving and automatic adjustment of resources to maintain optimal performance. The platform would additionally provide a user-friendly dashboard, allowing even non-technical users to monitor their application performance easily. This innovative APM solution would cater to businesses of all sizes, especially those operating in cloud environments.",
+        "ratings": {
+            "originality": 6,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-13"
+    },
+    {
+        "id": "9d7a4b8b-f58d-4f62-8f31-8b4711ba5d15",
+        "repositoryTitle": "googleapis / genai-toolbox",
+        "repositoryUrl": "https://github.com/googleapis/genai-toolbox",
+        "businessIdea": "Business Idea: \n\nWe could establish a cloud-based data management service utilizing the MCP (Master Control Program) Toolbox for Databases. We'll provide a user-friendly interface that allows businesses of all sizes to store, retrieve, and manage their data in a seamless manner, without needing extensive technical knowledge. Given the open-source nature of the Toolbox, we can customize the product to cater to a wide variety of database systems, hence targeting a broad market segment. Additional services could include data analysis and visualization, advanced security measures, and dedicated customer support.",
+        "ratings": {
+            "originality": 6,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-13"
+    },
+    {
+        "id": "9ae5d2f7-bbdd-41a8-a232-0639c993758f",
+        "repositoryTitle": "anthropics / claude-code",
+        "repositoryUrl": "https://github.com/anthropics/claude-code",
+        "repositoryOwner": "anthropics",
+        "repositoryName": "claude-code",
+        "businessIdea": "Business Idea: \n\nWe could build a platform called \"Coders' Companion\". This platform would leverage the functionality of the Claude Code tool to improve the efficiency of individual developers and teams working on complex software projects. Besides offering routine coding tasks execution, it would also include features like personalized coding lessons, real-time code reviews, and progress tracking. \n\nThe platform could connect to popular code repositories and IDEs, and offer seamless integration with project management tools for task assignment and tracking. Additionally, it could have a subscription-based model for advanced features like custom workflows, advanced code diagnostics and priority support. Coders' Companion could greatly help both experienced developers and newcomers, making coding less daunting and more efficient.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-14"
+    },
+    {
+        "id": "12f9022e-c79b-478f-a921-d8c3585eade5",
+        "repositoryTitle": "vercel / commerce",
+        "repositoryUrl": "https://github.com/vercel/commerce",
+        "repositoryOwner": "vercel",
+        "repositoryName": "commerce",
+        "businessIdea": "\"Artisanal Market Online\" - A centralized platform for local artisans to sell their handcrafted goods. Using the high-performance server-rendering capabilities of the Vercel/Commerce project, we can build a vibrant, user-friendly marketplace that not only facilitates easy transactions but also tells the unique stories of these local artists. Additional features could include personalized recommendations, virtual workshops, and live chat support for buyers to interact directly with the artisans. The platform will support a range of sellers, from pottery to handmade cosmetics, offering shoppers a diverse, curated selection of artisanal products.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 8,
+            "monetizationClarity": 7
+        },
+        "dateGenerated": "2025-07-14"
+    },
+    {
+        "id": "0424d1b6-b9c2-4172-ad2d-9cdd386aef2d",
+        "repositoryTitle": "block / goose",
+        "repositoryUrl": "https://github.com/block/goose",
+        "repositoryOwner": "block",
+        "repositoryName": "goose",
+        "businessIdea": "\"CodeBoost AI\" - An AI-powered assistant for software developers and engineering teams, capable of automating routine coding tasks. Leveraging the open-source block/goose (codename goose) AI agent, CodeBoost AI would enhance developer productivity by offering real-time code suggestions, error detection and debugging assistance, automated testing, code refactoring, and more. The platform would also include a collaborative space for teams, integrating with popular developer tools and platforms to streamline workflows. Additionally, it would continuously learn from user interactions and incorporate industry best practices to offer even better code suggestions and solutions over time.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-14"
+    },
+    {
+        "id": "02908dd4-f874-4d85-b1c3-e0d9a36d10d7",
+        "repositoryTitle": "microsoft / markitdown",
+        "repositoryUrl": "https://github.com/microsoft/markitdown",
+        "repositoryOwner": "microsoft",
+        "repositoryName": "markitdown",
+        "businessIdea": "\"DocumentFlow\" - A cloud-based content management platform that seamlessly converts, stores, and manages all of your company's various documents into clean and readable Markdown format. With DocumentFlow, you can streamline the process of documentation, making it easier for teams to collaborate, share, and keep track of changes in real-time. The platform will also offer advanced search capabilities, along with organizing tools to categorize and tag documents. Additionally, it will integrate with popular productivity tools and provide user-access control to ensure the security and privacy of your documents.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 8,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-15"
+    },
+    {
+        "id": "5149409f-0da8-4180-8ba0-94362940906b",
+        "repositoryTitle": "x1xhlol / system-prompts-and-models-of-ai-tools",
+        "repositoryUrl": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+        "repositoryOwner": "x1xhlol",
+        "repositoryName": "system-prompts-and-models-of-ai-tools",
+        "businessIdea": "Business Idea: \n\nDevelop an AI-powered collaborative coding platform for developers. This platform would utilize the system prompts and AI models from the open-source project to help developers write code more efficiently. The AI could suggest code snippets, identify errors in real time, and provide solutions to common bugs or issues. Furthermore, the platform would feature integrations with various development tools highlighted in the project, such as VSCode Agent and Replit Agent, providing a comprehensive and versatile environment for software development. Additionally, the platform could include a community feature where developers can share, discuss, and collaborate on coding projects, fostering a global community of learning and innovation.",
+        "ratings": {
+            "originality": 6,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 7
+        },
+        "dateGenerated": "2025-07-15"
+    },
+    {
+        "id": "f5e51806-3307-4953-be5a-9603b35520ba",
+        "repositoryTitle": "getzep / graphiti",
+        "repositoryUrl": "https://github.com/getzep/graphiti",
+        "repositoryOwner": "getzep",
+        "repositoryName": "graphiti",
+        "businessIdea": "Business Idea: \n\nWe could build an AI-driven tutoring platform that leverages real-time knowledge graphs to provide personalized, adaptive learning experiences. The system would analyze student's past performances, learning styles, and interests - building a comprehensive knowledge graph for each student. As the student interacts with the platform, it adapts its teaching strategies, personalizes content, and suggests resources to reinforce concepts. This approach not only accelerates learning but also enhances the retention of knowledge, catering to traditional classroom settings and corporate training programs alike.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-15"
+    },
+    {
+        "id": "8f8f3032-5b9e-4388-9792-2bb2acdaf603",
+        "repositoryTitle": "NVIDIA / cutlass",
+        "repositoryUrl": "https://github.com/NVIDIA/cutlass",
+        "repositoryOwner": "NVIDIA",
+        "repositoryName": "cutlass",
+        "businessIdea": "Business Idea: \n\nWe will build an advanced data analysis platform leveraging the high-performance matrix computations powered by CUDA and the CUTLASS library. This platform will serve industries requiring heavy computational tasks like big data analytics, high-frequency trading, weather modeling, and bioinformatics. It will be designed to crunch massive amounts of data efficiently, significantly reducing the time and computational resources required. Additionally, the platform will feature intuitive visualization tools, enabling users to understand complex data patterns easily. This service will be offered as a scalable subscription model to cater to various business sizes and needs.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-15"
+    },
+    {
+        "id": "6c350b38-f31b-46ec-b08d-69126ea10796",
+        "repositoryTitle": "frappe / erpnext",
+        "repositoryUrl": "https://github.com/frappe/erpnext",
+        "repositoryOwner": "frappe",
+        "repositoryName": "erpnext",
+        "businessIdea": "Business Idea: \n\nUsing the open-source ERPNext platform, we can build a highly customizable ERP solution service for small to medium-sized businesses. Unlike other ERP solutions which come with hefty price tags, our service will be significantly cost-effective, only charging for setup, customizations, and maintenance services. With our solution, businesses can easily manage their HR, sales, purchase, inventory, finance, and other operations. We'll also offer customer support, system upgrades, and training modules, ensuring our clients take full advantage of the system capabilities, enhancing their productivity and efficiency.",
+        "ratings": {
+            "originality": 6,
+            "feasibility": 8,
+            "marketPotential": 8,
+            "monetizationClarity": 9
+        },
+        "dateGenerated": "2025-07-15"
+    },
+    {
+        "id": "297fa379-b90f-415e-8c33-a40ad7e3ed7b",
+        "repositoryTitle": "nisargjhaveri / WirelessAndroidAutoDongle",
+        "repositoryUrl": "https://github.com/nisargjhaveri/WirelessAndroidAutoDongle",
+        "repositoryOwner": "nisargjhaveri",
+        "repositoryName": "WirelessAndroidAutoDongle",
+        "businessIdea": "Business Idea: \n\nLaunch a hardware startup that produces and sells a plug-n-play device built on the principles of this open-source project. This device will enable cars that only support wired Android Auto to convert to wireless Android Auto seamlessly. The product, powered by Raspberry Pi, will ensure quick bootup and an unaltered Android Auto experience. This provides a cost-effective solution for car owners who want to upgrade their vehicles without investing in an entirely new infotainment system. The company can also offer customized solutions and support for different car models, ensuring a wider market reach. In addition to the product, we can provide installation and after-sales support services, adding an additional revenue stream for the business.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 8,
+            "monetizationClarity": 9
+        },
+        "dateGenerated": "2025-07-15"
+    },
+    {
+        "id": "dfef8af7-1b50-46fe-9b4d-b5e98b5fb495",
+        "repositoryTitle": "musistudio / claude-code-router",
+        "repositoryUrl": "https://github.com/musistudio/claude-code-router",
+        "repositoryOwner": "musistudio",
+        "repositoryName": "claude-code-router",
+        "businessIdea": "Business Idea:\n\nWe could create a platform that provides personalized coding learning experiences. By leveraging the Claude Code Router project, our platform can route coding problems to different models, tailor-fit for different learning styles and skill levels of our users. The platform would also feature real-time feedback and guidance, making it a more interactive and engaging learning platform. Updates from Anthropic ensure that our platform is always up-to-date with the latest technologies and programming languages. Ultimately, we provide a more customized, efficient, and effective way of learning coding for individuals.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-16"
+    },
+    {
+        "id": "c744f9e3-837b-419c-b43b-71fa629d9964",
+        "repositoryTitle": "OpenBB-finance / OpenBB",
+        "repositoryUrl": "https://github.com/OpenBB-finance/OpenBB",
+        "repositoryOwner": "OpenBB-finance",
+        "repositoryName": "OpenBB",
+        "businessIdea": "Business Idea: \n\nWe could launch a platform called \"Public Invest\" that leverages the open-source OpenBB project. This platform would democratize the investment research process by providing a user-friendly interface with easy-to-understand analysis, insights, and ratings on various investment options. It could serve as a learning hub for novice investors and a valuable tool for seasoned investors seeking to diversify their portfolios. To monetize, we could introduce a premium subscription offering advanced analytics, personalized investment suggestions, and a community feature where users can interact with experienced investors. Additionally, we could partner with various investment firms to provide curated investment options to our users.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-16"
+    },
+    {
+        "id": "255d8909-b942-414a-b199-82b352e08c65",
+        "repositoryTitle": "mindsdb / mindsdb",
+        "repositoryUrl": "https://github.com/mindsdb/mindsdb",
+        "repositoryOwner": "mindsdb",
+        "repositoryName": "mindsdb",
+        "businessIdea": "Business Idea: \n\nWe will develop a virtual AI-based research assistant service designed for academic researchers, market analysts, and corporate strategists. This service will leverage the MindsDB project to process and analyze large scale federated data from various sources, such as scientific databases, market reports, and industry data. It will return detailed answers to complex questions, enabling users to gather insights and make informed decisions more efficiently. Its intuitive query engine will reduce the need for specialized data science knowledge, making advanced AI data analysis accessible to a broader audience.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-16"
+    },
+    {
+        "id": "faa0cc7d-b29e-4779-8983-d62c6be916fa",
+        "repositoryTitle": "bluewave-labs / Checkmate",
+        "repositoryUrl": "https://github.com/bluewave-labs/Checkmate",
+        "repositoryOwner": "bluewave-labs",
+        "repositoryName": "Checkmate",
+        "businessIdea": "Business Idea: \n\nWe could develop a robust SaaS platform that incorporates the real-time server monitoring and uptime tracking functionality provided by Checkmate. This tool could serve businesses across industries, especially ones that rely heavily on their digital infrastructure for operations like e-commerce companies, digital agencies, and IT companies. The platform could feature detailed analytical reports, predictive maintenance, and immediate incident alerts to optimize server performance and reduce downtime. By providing a user-friendly interface and advanced features like integration with other IT management tools, we could deliver a comprehensive solution for IT infrastructure management and maintenance.",
+        "ratings": {
+            "originality": 6,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-16"
+    },
+    {
+        "id": "acc34bfa-6820-4c85-9dc2-494ee085697c",
+        "repositoryTitle": "OpenPipe / ART",
+        "repositoryUrl": "https://github.com/OpenPipe/ART",
+        "repositoryOwner": "OpenPipe",
+        "repositoryName": "ART",
+        "businessIdea": "Business Idea: \n\nWe will develop an interactive gaming platform where players can train and manage their own AI agents. These agents will be designed to perform complex, multi-step tasks and challenges within the game and compete against other players' agents. Utilizing the ART project, we can offer on-the-job training for these agents using GRPO, allowing them to learn and adapt to new strategies and tasks. More than just a game, this platform could be used as an educational tool for AI and Machine Learning enthusiasts, providing a practical and engaging way to understand reinforcement learning techniques. This will not only provide a fun and competitive gaming experience, but also a sandbox learning environment for budding AI developers.",
+        "ratings": {
+            "originality": 8,
+            "feasibility": 7,
+            "marketPotential": 9,
+            "monetizationClarity": 6
+        },
+        "dateGenerated": "2025-07-16"
+    },
+    {
+        "id": "fa76c6fa-c239-4bfa-9f14-fa15be99a365",
+        "repositoryTitle": "beeradmoore / dlss-swapper",
+        "repositoryUrl": "https://github.com/beeradmoore/dlss-swapper",
+        "repositoryOwner": "beeradmoore",
+        "repositoryName": "dlss-swapper",
+        "businessIdea": "Business Idea: \n\nWe can build a cloud-based platform offering game enhancement services. By integrating the DLSS Swapper tool, the platform would allow gamers to easily download, manage, and swap DLSS, FSR, and XeSS dlls for their games, optimizing their game performance without waiting for game updates. The platform would also feature a gaming community where users can share their experiences, discuss optimal settings, and get help troubleshooting. Additionally, it could offer personalized recommendations on game settings and upgrades based on each user's hardware and game preferences. To generate revenue, we could offer a premium subscription with additional features like priority access to new versions of DLSS, FSR, and XeSS, advanced personalization, and premium support.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 6,
+            "marketPotential": 8,
+            "monetizationClarity": 9
+        },
+        "dateGenerated": "2025-07-16"
+    },
+    {
+        "id": "900f98aa-d3ed-4aef-80af-541f16328d48",
+        "repositoryTitle": "AykutSarac / jsoncrack.com",
+        "repositoryUrl": "https://github.com/AykutSarac/jsoncrack.com",
+        "repositoryOwner": "AykutSarac",
+        "repositoryName": "jsoncrack.com",
+        "businessIdea": "Build a SaaS platform called \"DataVizHub\" that caters to non-technical professionals such as researchers, analysts, and marketers who often struggle with visualizing complex data. Using the technology from the JsonCrack project, the platform would allow users to easily convert raw data formats into interactive, understandable graphs. To monetize, we can offer a freemium model where basic features are free with paid upgrades for advanced features like real-time collaboration, industry-specific templates, and priority customer support. With DataVizHub, we'll be making data visualization simple, enjoyable, and insightful.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-16"
+    },
+    {
+        "id": "47c8cfa7-7ee7-423b-973a-3b8f5f94400b",
+        "repositoryTitle": "browserbase / stagehand",
+        "repositoryUrl": "https://github.com/browserbase/stagehand",
+        "repositoryOwner": "browserbase",
+        "repositoryName": "stagehand",
+        "businessIdea": "Business Idea: \n\nWe develop an AI-driven platform, 'AutoWeb,' utilizing the Stagehand open-source project's capabilities for browser automation. AutoWeb will cater to digital marketers, SEO specialists, and enterprises by automating repetitive tasks such as verifying links, testing website load speeds, and checking website functionality on various devices and browsers. Additionally, AutoWeb will facilitate data scraping, market research, and competitive analysis by automating web browsing actions and data collection. With custom automation scripts, users can efficiently manage digital workflows, saving time and improving productivity.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-16"
+    },
+    {
+        "id": "2c0f64b6-e116-4568-a933-4983d7f57d8c",
+        "repositoryTitle": "PromtEngineer / localGPT",
+        "repositoryUrl": "https://github.com/PromtEngineer/localGPT",
+        "repositoryOwner": "PromtEngineer",
+        "repositoryName": "localGPT",
+        "businessIdea": "Business Idea: We could establish a privacy-focused document management platform for enterprises. This platform would use the localGPT open-source project to enable real-time chat interaction with stored documents. It would allow users to ask questions to their documents and get immediate responses, improving the accessibility of information within the document. Considering the growing concern for data privacy, the fact that no data leaves the device would be a major selling point. This solution would be particularly valuable for large corporations dealing with massive amounts of data, where finding specific information quickly is essential. It could also have targeted applications for legal firms, academia, and governmental organizations where secure and efficient document interaction is crucial.",
+        "ratings": {
+            "originality": 8,
+            "feasibility": 7,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-17"
+    },
+    {
+        "id": "14ce418f-4ed5-455c-b0fb-bb99200681ac",
+        "repositoryTitle": "maotoumao / MusicFree",
+        "repositoryUrl": "https://github.com/maotoumao/MusicFree",
+        "repositoryOwner": "maotoumao",
+        "repositoryName": "MusicFree",
+        "businessIdea": "\"StreamBeats\" could be a highly customizable, ad-free music streaming service built on the MusicFree open-source project. Unlike other music platforms, this service would allow users to modify and personalize their music player interface to their liking. Users could pick from a myriad of plug-ins to add features such as lyrics display, equalizers, and mood-based playlists. Additionally, \"StreamBeats\" would be revenue-generating by offering an optional premium subscription for access to exclusive content, higher quality streaming, and special plug-ins. Also, it may include an open marketplace where developers could sell their plug-ins and themes, creating a thriving community and a stream of revenue via transaction fees.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 6,
+            "marketPotential": 8,
+            "monetizationClarity": 9
+        },
+        "dateGenerated": "2025-07-17"
+    },
+    {
+        "id": "aa528fce-fa6e-44a4-aefe-6b00528d6afd",
+        "repositoryTitle": "arc53 / DocsGPT",
+        "repositoryUrl": "https://github.com/arc53/DocsGPT",
+        "repositoryOwner": "arc53",
+        "repositoryName": "DocsGPT",
+        "businessIdea": "\"Knowledge Concierge\" - A streamlined platform that utilizes DocsGPT genAI tool to provide personalized knowledge assistance services in various fields. Our interactive desktop and mobile application will cater to professionals, students, and information seekers, providing them with reliable, accurate and on-demand information retrieval. Users can simply input their queries, and our system will sift through a wide range of knowledge sources to provide insightful responses, empowering the users to make data-driven decisions, facilitate their learning, or simply satiate their curiosity. For businesses, we can provide industry-specific integrations, enabling access to accurate data for market analysis, competitive research, and strategy development.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 7
+        },
+        "dateGenerated": "2025-07-17"
+    },
+    {
+        "id": "adecf5f6-b5a7-4fc3-8e47-411011e6e341",
+        "repositoryTitle": "aws / amazon-q-developer-cli",
+        "repositoryUrl": "https://github.com/aws/amazon-q-developer-cli",
+        "repositoryOwner": "aws",
+        "repositoryName": "amazon-q-developer-cli",
+        "businessIdea": "Business Idea: \n\nCreate a platform that revolutionizes customer support by leveraging the powerful natural language processing capabilities of the Amazon Q Developer CLI. This platform would enable businesses to develop AI-driven, interactive bots that can handle customer inquiries in real-time via their website, app, or even social media messenger. It could quickly become a game-changer for small businesses that lack the resources for 24/7 customer support, while also offering a scalable solution for larger enterprises.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-17"
+    },
+    {
+        "id": "cdb10d83-7a3d-473e-8956-c35368baa7bd",
+        "repositoryTitle": "vpnhood / VpnHood",
+        "repositoryUrl": "https://github.com/vpnhood/VpnHood",
+        "repositoryOwner": "vpnhood",
+        "repositoryName": "VpnHood",
+        "businessIdea": "Business Idea: \n\nWe can build a cybersecurity company specializing in superior VPN services called \"WhisperWeb\". Testing the boundaries of privacy and internet freedom, WhisperWeb would leverage the open-source VpnHood project to offer a high-speed, undetectable, portable VPN, suitable for both ordinary users and experts. WhisperWeb would mainly appeal to privacy-conscious individuals, businesses, remote workers, and digital nomads who want to protect their online data and bypass geo-restrictions. In addition to the VPN service, we could also offer customizable privacy tools and educational resources on cybersecurity. The VPN service would be subscription-based, with tiered plans to cater to varied user needs. The revenue would be further boosted by offering enterprise solutions for businesses. Over time, WhisperWeb could expand its product suite to include other privacy-focused tools, establishing a robust position in the cybersecurity market.",
+        "ratings": {
+            "originality": 6,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 9
+        },
+        "dateGenerated": "2025-07-17"
+    },
+    {
+        "id": "983c5930-df61-4719-93a0-02015c53ac0e",
+        "repositoryTitle": "lastmile-ai / mcp-agent",
+        "repositoryUrl": "https://github.com/lastmile-ai/mcp-agent",
+        "repositoryOwner": "lastmile-ai",
+        "repositoryName": "mcp-agent",
+        "businessIdea": "Business Idea:\n\nWe can build an AI-powered logistics and supply chain management platform. Using the Model Context Protocol in the lastmile-ai/mcp-agent project, we can create effective AI agents to optimize route planning, inventory management, and delivery scheduling. The agents can also predict potential disruptions in the supply chain and suggest proactive measures. Our platform will thus help businesses to minimize logistics costs, reduce delivery times, and improve customer satisfaction.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-17"
+    },
+    {
+        "id": "9a858850-321c-4eae-ada6-640deccc383d",
+        "repositoryTitle": "rustdesk / rustdesk",
+        "repositoryUrl": "https://github.com/rustdesk/rustdesk",
+        "repositoryOwner": "rustdesk",
+        "repositoryName": "rustdesk",
+        "businessIdea": "Business Idea: \n\nWe could use the RustDesk platform to create a cloud-based remote IT support service. Businesses of all sizes could subscribe to our service, eliminating the need for in-house IT teams. Using the self-hosted RustDesk platform, our team of IT professionals would be able to connect to clients' systems remotely, ensuring efficient and prompt resolution of issues. By integrating AI-based analytics, we could also provide proactive system maintenance, identifying potential problems before they result in downtime. In addition to IT support, we could offer training workshops for popular software and cybersecurity best practices, utilizing the remote access to provide hands-on and personalized learning experiences. This would not only support businesses but also provide a cost-effective, scalable IT solution.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-17"
+    },
+    {
+        "id": "77174783-0ea8-4ac3-a0cb-9dbf31a98b74",
+        "repositoryTitle": "vanna-ai / vanna",
+        "repositoryUrl": "https://github.com/vanna-ai/vanna",
+        "repositoryOwner": "vanna-ai",
+        "repositoryName": "vanna",
+        "businessIdea": "\"SQL Tutor\" - An online learning platform focused on SQL programming. Here, learners can interactively chat with the artificial intelligence-powered tutor, \"Vanna\", to understand complex SQL concepts, troubleshoot their SQL code or get suggestions on how to optimize their database queries. Users can ask programming-focused questions in plain language and get back SQL code in response. It provides a more engaging, practical and efficient way to learn and master SQL programming, moving away from conventional, static learning methods towards a more dynamic and interactive learning experience. It could be beneficial for both individual learners and organizations looking to enhance their employees' database management skills.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 6
+        },
+        "dateGenerated": "2025-07-17"
+    },
+    {
+        "id": "cba851b5-f091-4b17-9586-6fa213f8f9b1",
+        "repositoryTitle": "nicklockwood / SwiftFormat",
+        "repositoryUrl": "https://github.com/nicklockwood/SwiftFormat",
+        "repositoryOwner": "nicklockwood",
+        "repositoryName": "SwiftFormat",
+        "businessIdea": "\"SwiftCode Quality\" - A cloud-based platform that integrates with existing developer tools to automatically format and enhance the readability of Swift code. Using the SwiftFormat open-source project as its backbone, SwiftCode Quality not only formats codes but also offers real-time feedback and suggestions to improve coding practices, maintain consistency, and improve code quality. It also offers team-wide settings to ensure uniformity across a project and coding standards. The platform can be subscription-based with scalable pricing based on team size or number of projects.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 8,
+            "monetizationClarity": 9
+        },
+        "dateGenerated": "2025-07-17"
+    },
+    {
+        "id": "f7f4031f-81e2-4d94-baba-fab3adda021b",
+        "repositoryTitle": "TomBursch / kitchenowl",
+        "repositoryUrl": "https://github.com/TomBursch/kitchenowl",
+        "repositoryOwner": "TomBursch",
+        "repositoryName": "kitchenowl",
+        "businessIdea": "Business Idea: \n\nDevelop a comprehensive home management app called \"HomeOwl\" that integrates grocery lists, meal planning, and home maintenance tasks all in one platform. Built upon the foundation of KitchenOwl, we can add features like smart calendar notifications for shopping or servicing appliances, dietary preferences and allergen tracking, and analytics on expenditure and food wastage. It will sync in real-time across devices, so all family members can add tasks or items to purchase, making home management a shared responsibility. In the future, we can collaborate with local grocery retailers and home service providers for integrated shopping and service booking. HomeOwl will be the ultimate solution for efficient and intelligent home management.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 7
+        },
+        "dateGenerated": "2025-07-17"
+    },
+    {
+        "id": "374a7a84-76e8-456d-bbf0-bd0fad4c01c1",
+        "repositoryTitle": "facebookresearch / segment-anything",
+        "repositoryUrl": "https://github.com/facebookresearch/segment-anything",
+        "repositoryOwner": "facebookresearch",
+        "repositoryName": "segment-anything",
+        "businessIdea": "Business Idea: \"StyleSwap\", an application that can transform the design of home interiors or exteriors in real-time. Using the SegmentAnything Model, users can upload or capture images or videos of their space, then select from a variety of styles - modern, industrial, vintage, etc., or themes like Christmas, Halloween, etc. The application will use the model to identify and segment different elements of the space (walls, furniture, decor) and apply the chosen style or theme accordingly, providing a real-time, interactive preview of their reimagined space. This can revolutionize the home decorating and remodeling industry, making it more accessible and personalized.",
+        "ratings": {
+            "originality": 8,
+            "feasibility": 7,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-17"
+    }
+]
