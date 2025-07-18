@@ -457,5 +457,140 @@
             "monetizationClarity": 8
         },
         "dateGenerated": "2025-07-17"
+    },
+    {
+        "id": "0428ff1a-ed17-4143-8a91-46201b27b97d",
+        "repositoryTitle": "gitleaks / gitleaks",
+        "repositoryUrl": "https://github.com/gitleaks/gitleaks",
+        "repositoryOwner": "gitleaks",
+        "repositoryName": "gitleaks",
+        "businessIdea": "\"Code Integrity Solutions\" - A cybersecurity consultancy company that leverages the power of Gitleaks to protect businesses from unintended data breaches. We offer an integrated service that scans your code repositories for sensitive information leaks, such as passwords or API keys, and provides a detailed vulnerability report. Our team then works with your developers to remediate those issues, ensuring your code is clean and secure. We also offer training and ongoing support to instil best practices in handling sensitive data among your staff. This helps to prevent future data leaks, bolster your security, and maintain the trust of your customers and stakeholders.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 9,
+            "marketPotential": 8,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-18"
+    },
+    {
+        "id": "e1575734-2af2-4c1b-934d-d30d9469a887",
+        "repositoryTitle": "soxoj / maigret",
+        "repositoryUrl": "https://github.com/soxoj/maigret",
+        "repositoryOwner": "soxoj",
+        "repositoryName": "maigret",
+        "businessIdea": "Business Idea: \n\"Social Sentinel\" - a personal online branding and reputation management platform. Users can enter their username, and our platform will use the Maigret open-source project to gather all online mentions and profiles associated with that username across thousands of sites. Our algorithm will then analyze the data, providing users with a comprehensive report detailing their online presence, reputation score and potential red flags. They will get actionable insights to maintain a positive digital footprint, safeguard their online reputation, and manage their personal brand effectively. Perfect for professionals, job seekers, influencers, and essentially anyone who cares about their online persona.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-18"
+    },
+    {
+        "id": "41a859fa-e1db-4ed8-ab37-8ed0d99191bb",
+        "repositoryTitle": "WasmEdge / WasmEdge",
+        "repositoryUrl": "https://github.com/WasmEdge/WasmEdge",
+        "repositoryOwner": "WasmEdge",
+        "repositoryName": "WasmEdge",
+        "businessIdea": "Business Idea: IoT Servware\n\nIoT Servware can leverage WasmEdge's lightweight and high-performance WebAssembly runtime to deliver a secure, scalable, and efficient platform for deploying and managing Internet of Things (IoT) devices. Our platform would be a one-stop solution for businesses looking to implement IoT solutions but are deterred by the complex programming and security challenges. Leveraging WasmEdge, IoT Servware would bring plug-and-play simplicity to device setup, make device management efficient, and ensure secure data transfer. This can revolutionize industries like manufacturing, logistics, agriculture, and home automation, as even non-tech businesses can leverage IoT solutions for efficiency, cost-saving, and developing new service lines.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 7
+        },
+        "dateGenerated": "2025-07-18"
+    },
+    {
+        "id": "cb1418a3-451c-44e2-a6e3-e62a870922ad",
+        "repositoryTitle": "strapi / strapi",
+        "repositoryUrl": "https://github.com/strapi/strapi",
+        "repositoryOwner": "strapi",
+        "repositoryName": "strapi",
+        "businessIdea": "Business Idea: \n\nWe aim to build a multi-lingual content management and distribution platform designed specifically for digital media companies. This platform will leverage Strapi's customizable headless CMS features, providing a seamless, intuitive interface for content creators to produce, manage, and distribute content in multiple languages. The system will be capable of handling various content types, such as articles, blogs, videos, and podcasts. A defining feature will be an in-built translator that will automatically translate content to various languages, thereby broadening the reach of our clients' content. By offering both self-hosted and cloud options, we ensure our clients have full control over their data and operations. This solution not only streamlines the content management process but also aids in expanding audience reach globally.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-18"
+    },
+    {
+        "id": "b0574479-abd6-4f2e-8b90-6e8db54450d1",
+        "repositoryTitle": "langchain-ai / open_deep_research",
+        "repositoryUrl": "https://github.com/langchain-ai/open_deep_research",
+        "repositoryOwner": "langchain-ai",
+        "repositoryName": "open_deep_research",
+        "businessIdea": "Business Idea: \"DeepIntel\"\n\n\"DeepIntel\" is a revolutionary AI-powered market research platform designed to provide businesses with deep, real-time insights about emerging market trends, competitive landscape, and customer behavior. Leveraging the open-source deep research agent from langchain-ai's project, DeepIntel can search through a multitude of model providers, search tools, and servers to retrieve and analyze vast amounts of data in seconds. \n\nThe product offers a user-friendly interface where businesses can simply input their research parameters, and the AI agent will do the rest. The results are presented in a digestible format, making it easy for decision-makers to understand and act upon.\n\nIn addition, DeepIntel can be configured to continuously monitor the market, providing regular updates on changes that could impact a business. From startups to large corporations, DeepIntel positions itself as a game-changer in the way businesses conduct market research, making it faster, more accurate, and highly scalable.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 6,
+            "marketPotential": 8,
+            "monetizationClarity": 7
+        },
+        "dateGenerated": "2025-07-18"
+    },
+    {
+        "id": "c0069f62-15cb-45ad-bbf2-0b85bc47ad60",
+        "repositoryTitle": "helix-editor / helix",
+        "repositoryUrl": "https://github.com/helix-editor/helix",
+        "repositoryOwner": "helix-editor",
+        "repositoryName": "helix",
+        "businessIdea": "Business Idea: \n\nDevelop a startup that expands upon the Helix text editor to create a feature-rich, modular, and collaborative text editing platform for developers and writers alike. This platform can be integrated into existing development environments and will come with options for real-time collaboration, advanced syntax highlighting for various coding languages, and smart predictive text capabilities. Additionally, we can create a marketplace for user-generated plugins to further customize and enhance the functionality of the editor, providing a new income stream for many developers. We can also offer premium support and additional features on a subscription basis for enterprise-level customers.",
+        "ratings": {
+            "originality": 6,
+            "feasibility": 8,
+            "marketPotential": 7,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-18"
+    },
+    {
+        "id": "8d97ecae-fa0b-4461-bfdf-ee673ebf60e3",
+        "repositoryTitle": "freeCodeCamp / devdocs",
+        "repositoryUrl": "https://github.com/freeCodeCamp/devdocs",
+        "repositoryOwner": "freeCodeCamp",
+        "repositoryName": "devdocs",
+        "businessIdea": "Business Idea: \n\nDevelop an advanced subscription-based platform for programmers and developers that builds on the core foundation of DevDocs. This platform would not only provide API documentations across various languages and frameworks, but also integrate interactive coding environments, community forums for problem-solving, and tailored learning paths for different levels of programmers. A freemium model could be adopted, where basic access remains free, but premium features such as advanced search, personalized recommendations, and exclusive tutorials are offered at a price. This would serve as a one-stop resource for developers catering to their learning, coding, and collaboration needs.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-18"
+    },
+    {
+        "id": "7d32c166-37b9-4d7a-9fc2-c7b5f0576e81",
+        "repositoryTitle": "cloudcommunity / Free-Certifications",
+        "repositoryUrl": "https://github.com/cloudcommunity/Free-Certifications",
+        "repositoryOwner": "cloudcommunity",
+        "repositoryName": "Free-Certifications",
+        "businessIdea": "Business Idea: \n\nCreate a platform called \"CertifyMe\" that integrates with this GitHub project, providing a simple, user-friendly interface for individuals and businesses to find and complete free certification courses. The platform will feature personalized recommendations, a progress tracker, and a community space for learners to share experiences and help each other. For an added revenue stream, we could offer premium features such as one-on-one tutoring, exam prep materials, and job placement assistance for those who have completed certain certifications. Leveraging the open-source information from the GitHub project, CertifyMe will make professional development accessible and convenient for everyone.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-18"
+    },
+    {
+        "id": "9eb6947b-7313-4422-8a50-cf459ec73dc0",
+        "repositoryTitle": "Kyome22 / RunCat365",
+        "repositoryUrl": "https://github.com/Kyome22/RunCat365",
+        "repositoryOwner": "Kyome22",
+        "repositoryName": "RunCat365",
+        "businessIdea": "Business Idea: The \"Productivity Cat\" application. This would incorporate the fun and appealing aspects of the RunCat365 animation into a customizable productivity app for Windows users. Users could be able to customize their \"Productivity Cat's\" features and accessories, and the cat's running speed could vary based on the user's productivity level (e.g., slower when they are idle and faster when they are actively using productivity apps). This could be combined with time tracking and task management features, giving users a playful, personalized, and engaging way to stay motivated and focused throughout their workday.",
+        "ratings": {
+            "originality": 8,
+            "feasibility": 7,
+            "marketPotential": 6,
+            "monetizationClarity": 5
+        },
+        "dateGenerated": "2025-07-18"
     }
 ]
