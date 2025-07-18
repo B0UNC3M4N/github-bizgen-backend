@@ -1,9 +1,10 @@
 # api/routes.py
 
 from fastapi import APIRouter
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, StreamingResponse
 from pathlib import Path
 import json
+import httpx
 
 router = APIRouter()
 
@@ -17,3 +18,10 @@ def get_ideas():
         data = json.load(f)
 
     return {"ideas": data}  # ✅ Frontend expects {"ideas": [...]}
+
+@router.get("/preview-image")
+async def proxy_github_image(owner: str, repo: str):
+    url = f"https://opengraph.githubassets.com/1/{owner}/{repo}"
+    async with httpx.AsyncClient() as client:
+        response = await client.get(url)
+    return StreamingResponse(content=response.iter_bytes(), media_type="image/png")
