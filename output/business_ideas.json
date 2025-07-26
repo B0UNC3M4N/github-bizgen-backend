@@ -1132,5 +1132,110 @@
             "monetizationClarity": 9
         },
         "dateGenerated": "2025-07-26"
+    },
+    {
+        "id": "5c17d561-402a-4ffc-9660-4354b2b1026a",
+        "repositoryTitle": "keycloak / keycloak",
+        "repositoryUrl": "https://github.com/keycloak/keycloak",
+        "repositoryOwner": "keycloak",
+        "repositoryName": "keycloak",
+        "businessIdea": "Business Idea: \n\nWe develop a cloud-based solution named \"SecureBridge\" that leverages Keycloak's open source identity and access management framework. SecureBridge will offer comprehensive user identity and access management to businesses, particularly targeting small to mid-sized enterprises who lack robust in-house IT support. \n\nOur solution will provide a simple, fast, and secure way for these businesses to manage user identities and accesses, integrate with third-party applications, and ensure the highest level of security. The system will offer features like single sign-on (SSO), two-factor authentication, and social login. In addition to this, SecureBridge will include usage analytics and reporting, so companies can have a clear overview of access and user activities. Our business model would be a tiered subscription service, based on the number of users and advanced features required. \n\nSecureBridge would take the hassle and complexity out of implementing and managing an identity and access management system, freeing businesses to focus on their main operations.",
+        "ratings": {
+            "originality": 6,
+            "feasibility": 8,
+            "marketPotential": 8,
+            "monetizationClarity": 9
+        },
+        "dateGenerated": "2025-07-26"
+    },
+    {
+        "id": "0c827eb6-f69b-4376-9146-e8bb08ea8b1a",
+        "repositoryTitle": "BerriAI / litellm",
+        "repositoryUrl": "https://github.com/BerriAI/litellm",
+        "repositoryOwner": "BerriAI",
+        "repositoryName": "litellm",
+        "businessIdea": "Business Idea: \n\nCreating an AI-powered data analysis and visualization platform called 'Dataviz AI'. This platform will leverage the LiteLLM project to access multiple language model APIs and analyze the data from various sources in real time. The platform will also use AI to generate insights and visualizations that are easy to understand. It will serve businesses, researchers, and institutions who need to analyze and interpret large volumes of data quickly and accurately. Users can customize their data sources, type of analysis, and visualization design making complex data analysis accessible, interactive, and user-friendly. This could revolutionize the way businesses make data-driven decisions.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-26"
+    },
+    {
+        "id": "51ddb774-d193-4f28-aa95-d35d49b55d71",
+        "repositoryTitle": "Infisical / infisical",
+        "repositoryUrl": "https://github.com/Infisical/infisical",
+        "repositoryOwner": "Infisical",
+        "repositoryName": "infisical",
+        "businessIdea": "Business Idea: \n\nDevelop a comprehensive digital security platform that uses Infisical's open-source technology for secret management, PKI and SSH access. This platform would function as a one-stop solution for businesses to manage, sync and prevent leaks of their digital secrets and configurations. It can be designed with advanced security features for safe team collaboration and also provide personalized security solutions. In addition to this, the platform could offer services like secure cloud hosting, expert security consultation, and trainings to help businesses fortify their digital infrastructure.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-26"
+    },
+    {
+        "id": "90bb87b6-94ca-42e1-ad36-15d59b4d884f",
+        "repositoryTitle": "confident-ai / deepeval",
+        "repositoryUrl": "https://github.com/confident-ai/deepeval",
+        "repositoryOwner": "confident-ai",
+        "repositoryName": "deepeval",
+        "businessIdea": "Business Idea: \n\nWe could build an AI-driven educational platform that utilizes the LLM Evaluation Framework from the \"deepeval\" project. The platform would be able to understand, evaluate, and provide feedback on students' written responses, similar to a human tutor. This would be especially beneficial for remote learning situations where face-to-face evaluation is not possible. The in-depth analytical feedback from our tool can help students improve their understanding and writing skills over time by pinpointing their weak spots and suggesting improvements. The tool could initially focus on a niche like language learning, essay writing, or coding responses, with plans to expand into other areas.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-26"
+    },
+    {
+        "id": "0b7caa63-04fc-47e9-8d44-db2fd053fcb4",
+        "repositoryTitle": "dataease / dataease",
+        "repositoryUrl": "https://github.com/dataease/dataease",
+        "repositoryOwner": "dataease",
+        "repositoryName": "dataease",
+        "businessIdea": "Business Idea: \nWe'll create a user-friendly platform named \"DataScope\", which will leverage the power of the open-source tool DataEase. Using DataScope, small and medium businesses, non-profits, and educational institutions can effortlessly visualize their data, generate key insights, and make data-driven decisions. Our platform will simplify data analysis and visualization tasks with an intuitive UI and pre-built templates. Moreover, DataScope will offer tiered subscription plans, with more advanced analytics and customization options for higher tiers. The platform will also provide dedicated customer support and consulting services to help organizations optimally use their data.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 9
+        },
+        "dateGenerated": "2025-07-26"
+    },
+    {
+        "id": "74042565-6e1c-4739-93d5-6e7ca9c23698",
+        "repositoryTitle": "goldbergyoni / nodebestpractices",
+        "repositoryUrl": "https://github.com/goldbergyoni/nodebestpractices",
+        "repositoryOwner": "goldbergyoni",
+        "repositoryName": "nodebestpractices",
+        "businessIdea": "Business Idea: Create an online learning platform named \"NodeMaster\" that provides interactive, self-paced courses and tutorials based on the best practices in the Node.js project. The platform would utilize real-world examples, quizzes, and projects, allowing users to not only learn the theory but also to practice and validate their knowledge. To ensure continuous learning and staying up-to-date with the latest practices, the curriculum would be regularly updated based on the \"nodebestpractices\" repository. In the long-term, the platform could expand to other programming languages, establishing itself as the go-to resource for developers seeking to master coding best practices.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-26"
+    },
+    {
+        "id": "f5083f59-9c44-4bf4-850b-32193428af1a",
+        "repositoryTitle": "Raphire / Win11Debloat",
+        "repositoryUrl": "https://github.com/Raphire/Win11Debloat",
+        "repositoryOwner": "Raphire",
+        "repositoryName": "Win11Debloat",
+        "businessIdea": "Business Idea: \n\nDevelop a desktop application named 'DebloatPro' targeted at both individual users and businesses. This application will capitalize on the open-source project Win11Debloat, enhancing its functionality for a more user-friendly experience. DebloatPro will enable users to easily remove pre-installed apps, disable telemetry, and customize their Windows systems through a simple and intuitive graphical interface, eliminating the need for scripting knowledge. Further, the application will provide robust features such as system optimization tips, safe app removal protocols, and scheduled system cleanups. The business model could be a freemium model, where basic features are free, and advanced features require a subscription. This presents an ideal solution for non-tech-savvy users and organizations looking to optimize their system performance quickly and safely.",
+        "ratings": {
+            "originality": 6,
+            "feasibility": 8,
+            "marketPotential": 7,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-26"
     }
 ]
