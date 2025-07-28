@@ -1237,5 +1237,65 @@
             "monetizationClarity": 8
         },
         "dateGenerated": "2025-07-26"
+    },
+    {
+        "id": "f8d578e3-99c5-4cba-aa5e-970dfcd66989",
+        "repositoryTitle": "Genesis-Embodied-AI / Genesis",
+        "repositoryUrl": "https://github.com/Genesis-Embodied-AI/Genesis",
+        "repositoryOwner": "Genesis-Embodied-AI",
+        "repositoryName": "Genesis",
+        "businessIdea": "Business Idea: Robotic Training Software-as-a-Service\n\nLeverage the Genesis-Embodied-AI project to create a Software-as-a-Service (SaaS) platform that helps robotics companies train and simulate their robotics algorithms in a generative, synthetic world before deployment. Clients can upload their designs or pick from a variety of pre-built models, set different environmental parameters, and then run tests to learn, iterate and improve their designs. This will drastically reduce their physical testing overhead while accelerating the robotics development cycle. As a value add-on, we could offer analytics and insights based on the simulations, spotting potential weaknesses or areas of enhancement in their robotics algorithms.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-28"
+    },
+    {
+        "id": "ae455407-b8b3-4296-bb48-dfa2b5adb0b6",
+        "repositoryTitle": "Shubhamsaboo / awesome-llm-apps",
+        "repositoryUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "repositoryOwner": "Shubhamsaboo",
+        "repositoryName": "awesome-llm-apps",
+        "businessIdea": "A language learning platform that uses AI agents to enhance the user experience. The application employs language models to create engaging language courses tailored to the user's proficiency levels and learning goals. Learners can interact with AI agents in real-time, simulating real-life conversations and scenarios for practical learning. The AI also tracks the user's progress and adjusts the difficulty level accordingly, providing a personalized and adaptive learning experience. Additionally, users can engage in language-gaming features, competing against AI algorithms or other users to make learning more enjoyable and motivating.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 6
+        },
+        "dateGenerated": "2025-07-28"
+    },
+    {
+        "id": "92ae5ea5-0a8f-42a7-b704-8ec71fa8bbbb",
+        "repositoryTitle": "daveebbelaar / ai-cookbook",
+        "repositoryUrl": "https://github.com/daveebbelaar/ai-cookbook",
+        "repositoryOwner": "daveebbelaar",
+        "repositoryName": "ai-cookbook",
+        "businessIdea": "Business Idea:\n\nDevelop an AI-powered personal chef application. Using the tutorials and examples from the AI Cookbook, we can build an intelligent system that understands users' dietary preferences, allergies, and cooking skill level. By considering these factors, the application can suggest tailored recipes and provide step-by-step, interactive cooking guidance. The application could also have features like a smart grocery list generator, a meal planner, nutritional tracker, and even virtual cooking classes. It could be monetized through premium features, partnerships with grocery stores, and in-app advertising.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-28"
+    },
+    {
+        "id": "628cbcf1-009e-49db-8b70-bc4a0320d6bc",
+        "repositoryTitle": "tldr-pages / tldr",
+        "repositoryUrl": "https://github.com/tldr-pages/tldr",
+        "repositoryOwner": "tldr-pages",
+        "repositoryName": "tldr",
+        "businessIdea": "Business Idea: We could build an application that integrates with the console and delivers the required 'tldr' cheatsheets directly in the terminal. This would create a user-friendly coding environment, especially for beginners, by providing quick and easy access to command guides. As an extension, a premium subscription model could offer personalized command suggestions, memory cues and in-depth walkthroughs for complex command strings. This would significantly reduce the unproductive time spent on remembering or searching for command line syntax while coding or debugging.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 7,
+            "monetizationClarity": 6
+        },
+        "dateGenerated": "2025-07-28"
     }
 ]
