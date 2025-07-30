@@ -1297,5 +1297,125 @@
             "monetizationClarity": 6
         },
         "dateGenerated": "2025-07-28"
+    },
+    {
+        "id": "cc527887-ef7f-44f7-a002-ff7ff7c31676",
+        "repositoryTitle": "9001 / copyparty",
+        "repositoryUrl": "https://github.com/9001/copyparty",
+        "repositoryOwner": "9001",
+        "repositoryName": "copyparty",
+        "businessIdea": "Business Idea: \n\nIntroducing \"CloudEase,\" a service designed for small to mid-sized businesses, NGOs, and educational institutions, that struggle with data management and resource sharing. CloudEase, leveraging the power of the open-source project 'copyparty', aims to offer a cost-effective, portable, and user-friendly file server solution. It allows organizations to transform their existing hardware infrastructure into potent file servers and cloud storage networks. \n\nWith its unique selling point of accelerated, resumable uploads and downloads, CloudEase reduces the time spent on file migration and ensures no duplication of resources. Thanks to its WebDAV, FTP, TFTP support, it integrates seamlessly into existing workflows. Furthermore, its support for various protocols ensures broad compatibility and easy access from any device. \n\nIn addition, CloudEase adds an extra layer of service by offering set-up, maintenance, and customer support, making it a comprehensive solution for organizations stepping into the world of cloud and server technology. With CloudEase, enjoy the power of efficient data management, without the hefty price tag.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 8,
+            "monetizationClarity": 9
+        },
+        "dateGenerated": "2025-07-30"
+    },
+    {
+        "id": "8b03f041-e223-4f92-bd7e-ddb5773feec3",
+        "repositoryTitle": "cloudwego / eino",
+        "repositoryUrl": "https://github.com/cloudwego/eino",
+        "repositoryOwner": "cloudwego",
+        "repositoryName": "eino",
+        "businessIdea": "Business Idea: \"AeroHealthAI\"\n\nAeroHealthAI is a next-gen telehealth platform that leverages the power of Artificial Intelligence (AI) and Low Latency Microservices (LLM), built on the Eino framework. Our platform uses advanced AI algorithms to provide real-time predictive analysis and personalized treatment suggestions for patients. \n\nThe LLM capabilities enable seamless video consultations, even in low bandwidth areas, creating a globally accessible healthcare solution. The artificial intelligence algorithms interpret medical data, patient history, and current symptoms, thus enabling doctors to make more accurate diagnoses and treatment plans.\n\nThe platform will also include features for scheduling appointments, receiving reminders, storing medical records, and conducting follow-up care. By combining AI and LLM, AeroHealthAI strives to make healthcare accessible, timely, and more personalized, revolutionizing the telehealth industry.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-30"
+    },
+    {
+        "id": "6c3185bc-bc65-49b0-8728-090bb51f6e99",
+        "repositoryTitle": "n0-computer / iroh",
+        "repositoryUrl": "https://github.com/n0-computer/iroh",
+        "repositoryOwner": "n0-computer",
+        "repositoryName": "iroh",
+        "businessIdea": "\"MeshNet\" - a decentralized Internet connectivity solution that leverages the power of the Iroh project. It will provide reliable, censorship-resistant, and affordable internet access to remote, underserved areas by creating a scalable peer-2-peer network. Users' devices will serve as nodes, contributing to the overall network health while earning them rewards in the form of discounted internet costs. It not only democratizes Internet access but also provides a resilient infrastructure for situations like natural disasters where traditional networks may fail.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 6,
+            "marketPotential": 8,
+            "monetizationClarity": 5
+        },
+        "dateGenerated": "2025-07-30"
+    },
+    {
+        "id": "62bb859a-6d3a-436a-adf3-c1a8e7aa58c5",
+        "repositoryTitle": "microsoft / PowerToys",
+        "repositoryUrl": "https://github.com/microsoft/PowerToys",
+        "repositoryOwner": "microsoft",
+        "repositoryName": "PowerToys",
+        "businessIdea": "Business Idea:\n\nWe can develop a productivity suite application that integrates with Microsoft PowerToys to make Windows more intuitive and efficient for businesses. This software would offer personalized solutions for different industries, stored in the cloud for easy access, whether staff are at the office or working remotely. Using PowerToys' open-source code, we could add features like automated workflows, time tracking, calendar syncing, and efficient task management that are specifically tailored to meet the needs of various businesses. Employees would be able to customize their Windows work environment, simplifying their daily tasks and boosting overall productivity.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-30"
+    },
+    {
+        "id": "a7ca5452-e1ce-45ec-be63-588ea1e55a01",
+        "repositoryTitle": "lapce / lapce",
+        "repositoryUrl": "https://github.com/lapce/lapce",
+        "repositoryOwner": "lapce",
+        "repositoryName": "lapce",
+        "businessIdea": "Business Idea: \n\nWe can use this lapce project to create a customizable code editor platform specifically tailored for educational institutions to teach coding interactively. This platform could integrate with curriculum, offer real-time collaborative code editing for team projects, and feature specialized tools for educators to monitor progress, provide instant feedback, and manage assignments. The lightning speed and power of this editor would deliver a seamless experience, promoting an efficient learning environment for students. Moreover, the editor's inherent customizability would allow institutions to mold it according to their specific pedagogical needs.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-30"
+    },
+    {
+        "id": "3fb2ee1d-0b4b-464a-ab3e-69125d5f3908",
+        "repositoryTitle": "ashishpatel26 / 500-AI-Agents-Projects",
+        "repositoryUrl": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+        "repositoryOwner": "ashishpatel26",
+        "repositoryName": "500-AI-Agents-Projects",
+        "businessIdea": "Business Idea: An online platform, \"AISource\", that connects businesses across various industries to AI solutions tailored to their specific needs. It will leverage the curated collection of AI agent use cases from the '500 AI Agents Projects' repository. Businesses can explore different AI applications suitable for their sector, such as healthcare, finance, education, retail, and more, and find open-source projects for implementation. Additionally, AISource can provide consultation services, aiding companies in selecting the right AI projects and guiding them throughout their AI adoption journey.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-30"
+    },
+    {
+        "id": "26bec5a5-1513-4ed0-ad22-7afe96844205",
+        "repositoryTitle": "linshenkx / prompt-optimizer",
+        "repositoryUrl": "https://github.com/linshenkx/prompt-optimizer",
+        "repositoryOwner": "linshenkx",
+        "repositoryName": "prompt-optimizer",
+        "businessIdea": "\"Promptly\": A content recommendation platform for authors, bloggers, and content creators. \"Promptly\" will leverage the open-source prompt-optimizer project to suggest high-quality and engaging prompts or titles for their next piece of content. The tool will analyze previous successful articles and their prompts across various sectors to create engaging and clickable titles. With a user-friendly interface and integration capabilities with popular content management systems, \"Promptly\" will help creators save time and increase their content's reach and engagement.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 7
+        },
+        "dateGenerated": "2025-07-30"
+    },
+    {
+        "id": "68569812-2a38-4a14-a771-03cb760f410d",
+        "repositoryTitle": "outline / outline",
+        "repositoryUrl": "https://github.com/outline/outline",
+        "repositoryOwner": "outline",
+        "repositoryName": "outline",
+        "businessIdea": "Business Idea: Leveraging the power of Outline, we could build an all-in-one project management and collaboration tool specifically designed for creative industries, like advertising, design, or film. This tool would feature real-time collaboration, comprehensive knowledge base, and markdown compatibility, enabling seamless communication and idea sharing. Additionally, we could integrate features such as task management, time tracking, file sharing, and version control, making it a go-to platform for creative teams to manage their projects from conception to completion. This not only makes teamwork more efficient, but also ensures that all team members have easy access to the same information and resources, minimizing misunderstandings and making the workflow smoother.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-30"
     }
 ]
