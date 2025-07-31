@@ -1417,5 +1417,155 @@
             "monetizationClarity": 8
         },
         "dateGenerated": "2025-07-30"
+    },
+    {
+        "id": "cac88280-2b44-474b-a589-b50b815a0703",
+        "repositoryTitle": "kijai / ComfyUI-WanVideoWrapper",
+        "repositoryUrl": "https://github.com/kijai/ComfyUI-WanVideoWrapper",
+        "repositoryOwner": "kijai",
+        "repositoryName": "ComfyUI-WanVideoWrapper",
+        "businessIdea": "\"Video Content Customization Platform\": An online tool that lets video content creators seamlessly integrate custom models and features into their videos. By using the open-source ComfyUI-WanVideoWrapper project, the platform would offer a user-friendly interface for creators to experiment with new video elements without needing advanced coding knowledge. This could include personalized animations, interactive layers, or unique video effects. As the project is open source, the platform could also foster a community where creators can share and collaborate on custom features, enhancing the overall video production process.",
+        "ratings": {
+            "originality": 8,
+            "feasibility": 7,
+            "marketPotential": 9,
+            "monetizationClarity": 6
+        },
+        "dateGenerated": "2025-07-31"
+    },
+    {
+        "id": "ae9f92bd-faf1-4949-a8a8-5a1e1b4ddaee",
+        "repositoryTitle": "stenzek / duckstation",
+        "repositoryUrl": "https://github.com/stenzek/duckstation",
+        "repositoryOwner": "stenzek",
+        "repositoryName": "duckstation",
+        "businessIdea": "Business Idea:\n\nWe could establish a company that specializes in reviving classic PlayStation 1 games by offering a cloud-based gaming service. Leveraging the DuckStation emulator, we will allow users to play their favorite retro PS1 games on multiple platforms including Windows, macOS, and Linux without needing to download or install anything. This would expand the accessibility and enjoyment of these games to a wider audience, regardless of their hardware. In addition, we can collaborate with the owners of these classic games to monetize this service through a subscription model, in-game purchases, and advertising. This approach will provide a nostalgic gaming experience to older players while introducing new generations to the classics.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 6,
+            "marketPotential": 8,
+            "monetizationClarity": 9
+        },
+        "dateGenerated": "2025-07-31"
+    },
+    {
+        "id": "c4014ef2-637a-4e06-9bd5-7c3500b59a37",
+        "repositoryTitle": "SkyworkAI / SkyReels-V2",
+        "repositoryUrl": "https://github.com/SkyworkAI/SkyReels-V2",
+        "repositoryOwner": "SkyworkAI",
+        "repositoryName": "SkyReels-V2",
+        "businessIdea": "Business Idea: A personalized online streaming platform, \"InfiniStream\", that uses the SkyReels V2 technology to generate customized, never-ending movies for viewers. By analyzing user behavior, preferences, and feedback, InfiniStream will create original content tailored to each viewer's taste. This infinite, hyper-personalized content can revolutionize the way people consume media, making each viewing experience unique and highly engaging, thus opening up new advertising and subscription revenue streams.",
+        "ratings": {
+            "originality": 9,
+            "feasibility": 6,
+            "marketPotential": 8,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-31"
+    },
+    {
+        "id": "34783432-e4bd-474e-93e6-1157bbbeafa7",
+        "repositoryTitle": "EmenstaNougat / ESP32-BlueJammer",
+        "repositoryUrl": "https://github.com/EmenstaNougat/ESP32-BlueJammer",
+        "repositoryOwner": "EmenstaNougat",
+        "repositoryName": "ESP32-BlueJammer",
+        "businessIdea": "Business Idea: BlueShield - Security Testing & Enhancement Services\n\nLeveraging the capabilities of the ESP32-BlueJammer, we can create a cybersecurity service company, \"BlueShield,\" that specializes in testing and enhancing the security strengths of wireless networks and devices. \n\nOur services would include controlled disruption tests, exposing vulnerabilities in clients' wireless networks and devices, enabling them to understand their weaknesses and work on enhancing their resilience against potential cyber-attacks. \n\nMoreover, we could also provide tailored solutions for strengthening their security systems, including custom firmware and software upgrades, hardware suggestions, and detailed security protocols. \n\nWith the rising dependence on wireless communication channels and the burgeoning threats of cybercrime, BlueShield could become an essential partner for organizations aiming to safeguard their digital ecosystems.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-31"
+    },
+    {
+        "id": "9b6c4125-0f10-48bf-9f2e-07a5686aba28",
+        "repositoryTitle": "puppeteer / puppeteer",
+        "repositoryUrl": "https://github.com/puppeteer/puppeteer",
+        "repositoryOwner": "puppeteer",
+        "repositoryName": "puppeteer",
+        "businessIdea": "Business Idea: \n\nDeveloping an accessibility testing tool for web designers and developers. Leveraging Puppeteer's ability to control Chrome and Firefox browsers, the tool would automatically navigate through websites, simulate user interactions, and identify accessibility issues. These could range from color contrast problems, missing alt tags, keyboard trap issues, to other WCAG violations. The platform will generate comprehensive reports and provide recommendations for improvements, helping businesses ensure their websites are inclusive, compliant with accessibility laws, and deliver an optimal user experience for all visitors.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 9,
+            "marketPotential": 8,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-31"
+    },
+    {
+        "id": "43f2ded3-a9d7-4d43-b003-647f7565d06c",
+        "repositoryTitle": "Canner / WrenAI",
+        "repositoryUrl": "https://github.com/Canner/WrenAI",
+        "repositoryOwner": "Canner",
+        "repositoryName": "WrenAI",
+        "businessIdea": "Business Idea: \n\nWe could establish a SaaS platform that enables non-technical business professionals to pull and analyze data from their company databases effortlessly. By utilizing WrenAI's capabilities, the platform would translate natural language queries into SQL, returning charts or AI-generated insights. This would empower businesses to make data-driven decisions faster and more accurately, regardless of their technical expertise. The platform could be customized to fit various industries, ranging from healthcare to retail, thus unlocking a vast market potential.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-31"
+    },
+    {
+        "id": "ddb37ebf-52cf-47c4-b166-262ea5f5c5d9",
+        "repositoryTitle": "pointfreeco / swift-composable-architecture",
+        "repositoryUrl": "https://github.com/pointfreeco/swift-composable-architecture",
+        "repositoryOwner": "pointfreeco",
+        "repositoryName": "swift-composable-architecture",
+        "businessIdea": "Business Idea: \n\nLet's create a software-as-a-service (SaaS) platform specifically designed for small to medium scale businesses looking to build their own mobile applications. Leveraging the Swift Composable Architecture library, our platform will simplify the app development process and provide intuitive, easy-to-use tools for app composition and testing. The unique selling proposition would be the consistency and understandability of our platform, making it possible even for non-tech savvy entrepreneurs to build and manage their own bespoke mobile applications. We can also offer preconfigured app templates for various industries, which users can modify according to their needs. The platform will operate on a subscription-based model, with tiered pricing based on features and customization level.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 10
+        },
+        "dateGenerated": "2025-07-31"
+    },
+    {
+        "id": "e31c6c46-35d2-42b8-901f-ca27f59d5c41",
+        "repositoryTitle": "fastrepl / hyprnote",
+        "repositoryUrl": "https://github.com/fastrepl/hyprnote",
+        "repositoryOwner": "fastrepl",
+        "repositoryName": "hyprnote",
+        "businessIdea": "\"RemoteTranscribe\" - A secure, AI-powered transcription service designed specifically for remote teams. Using hyprnote's local-first tech, RemoteTranscribe provides real-time transcription of virtual meetings while ensuring data privacy. Beyond just transcription, it can capture actionable points, decisions and assign tasks, all in a private and secure environment. An added feature could be integration with popular project management tools, making it the go-to app for businesses focusing on data security without sacrificing productivity.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-31"
+    },
+    {
+        "id": "6aa8dc2f-5f3c-4fff-9f6e-3a74ba0cbaaf",
+        "repositoryTitle": "NemProject / nem",
+        "repositoryUrl": "https://github.com/NemProject/nem",
+        "repositoryOwner": "NemProject",
+        "repositoryName": "nem",
+        "businessIdea": "Business Idea: \n\nWe could build a secure, scalable, and sophisticated cryptocurrency exchange platform with a focus on emerging and less-known cryptocurrencies like NEM. This platform would be positioned as a go-to marketplace for traders and investors looking to diversify their cryptocurrency portfolios. The exchange would also offer educational resources, advanced trading features, real-time market analytics and a community platform to help users make informed investment decisions. Furthermore, we can provide blockchain solutions for businesses leveraging the NEM Infrastructure Server, helping them to integrate NEM blockchain into their systems for improved security and efficiency.",
+        "ratings": {
+            "originality": 6,
+            "feasibility": 8,
+            "marketPotential": 7,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-07-31"
+    },
+    {
+        "id": "0d4041e1-29e0-4579-9104-073910f91d67",
+        "repositoryTitle": "linkwarden / linkwarden",
+        "repositoryUrl": "https://github.com/linkwarden/linkwarden",
+        "repositoryOwner": "linkwarden",
+        "repositoryName": "linkwarden",
+        "businessIdea": "\"Bookmark Base\" - a subscription-based platform for researchers, students, professionals, or anyone who frequently collects and organizes online resources. Leveraging the technology of Linkwarden, we offer a powerful and customizable bookmark management system. Users can easily annotate, classify, and share their collections of online resources. Moreover, with our unique feature of web page preservation, users no longer have to worry about losing access to their bookmarked content. We could also introduce a collaborative feature for teams to jointly manage and discuss their collections, creating a knowledge hub within organizations.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 8,
+            "monetizationClarity": 7
+        },
+        "dateGenerated": "2025-07-31"
     }
 ]
