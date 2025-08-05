@@ -1567,5 +1567,140 @@
             "monetizationClarity": 7
         },
         "dateGenerated": "2025-07-31"
+    },
+    {
+        "id": "b281113e-c4a9-43cf-a46d-63b7c005e10e",
+        "repositoryTitle": "dyad-sh / dyad",
+        "repositoryUrl": "https://github.com/dyad-sh/dyad",
+        "repositoryOwner": "dyad-sh",
+        "repositoryName": "dyad",
+        "businessIdea": "Business Idea:\n\nA customizable, secure, AI-powered platform offering personalized learning solutions for students. With Dyad's capability, we can create an app that adapts to the unique learning style and pace of each student. The app could provide tutoring in various subjects, track progress in real-time, and offer insightful feedback to enhance learning outcomes. As it functions locally, it ensures privacy and fast response times. Its cross-platform compatibility makes it accessible for all, while the 'bring your own keys' feature adds an extra layer of personalization and security. This app could revolutionize personalized learning, offering a competitive edge over traditional learning methods.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 6
+        },
+        "dateGenerated": "2025-08-05"
+    },
+    {
+        "id": "40d44d66-ec50-479d-a334-67eba1131842",
+        "repositoryTitle": "souzatharsis / podcastfy",
+        "repositoryUrl": "https://github.com/souzatharsis/podcastfy",
+        "repositoryOwner": "souzatharsis",
+        "repositoryName": "podcastfy",
+        "businessIdea": "Business Idea: Launch \"Podcastify\", a platform that leverages the capabilities of open-source Podcastfy.ai to transform written content into engaging, multilingual audio podcasts. This platform would be particularly beneficial for content creators, bloggers, and online educators. They can repurpose their textual content into podcasts, expanding their audience and making their content more accessible. Additionally, with Podcastify's multilingual capabilities, users can reach global audiences without the need for translation services. Podcastify could also integrate with popular blog platforms for seamless content transformation.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-08-05"
+    },
+    {
+        "id": "d5b70ca9-1f83-43e6-911b-8ea8e766a193",
+        "repositoryTitle": "actualbudget / actual",
+        "repositoryUrl": "https://github.com/actualbudget/actual",
+        "repositoryOwner": "actualbudget",
+        "repositoryName": "actual",
+        "businessIdea": "Business Idea: \n\nWe can build a SaaS platform named 'Personalized Finance Pro' that leverages the core capabilities of the 'Actual' project. It would offer enhanced features beyond the base open-source version such as personalized financial advice, sophisticated budgeting tools, and automated expense categorization. For example, the system would use past spending data to offer personalized saving tips and would automatically categorize expenses into predefined categories. Additionally, it would serve as a financial hub where users can integrate all their bank accounts, credit cards, loans, and investments for a holistic view of their financial health.\n\nThis platform would follow a freemium model where the basic features are free, but to unlock advanced features, users would have to subscribe to a premium version. We could also monetize it by offering partnerships with financial institutions for referrals.",
+        "ratings": {
+            "originality": 5,
+            "feasibility": 8,
+            "marketPotential": 7,
+            "monetizationClarity": 9
+        },
+        "dateGenerated": "2025-08-05"
+    },
+    {
+        "id": "2f101cb2-1ccb-49d2-9909-4dfe7f2addf8",
+        "repositoryTitle": "MotiaDev / motia",
+        "repositoryUrl": "https://github.com/MotiaDev/motia",
+        "repositoryOwner": "MotiaDev",
+        "repositoryName": "motia",
+        "businessIdea": "\"HealthFlow\": A health-tech platform that offers personalized health and wellness guidance. By leveraging Motia's unified backend framework, we will integrate APIs from various health, fitness, and nutrition databases. Our AI agents will continuously learn from user interactions, ensuring that recommendations are increasingly tailored to individual needs. Users will receive push notifications for workout reminders, meal suggestions, and health check-ups, all managed by Motia's background job feature. Additionally, Motia's state management and observability capabilities will allow users to easily track their health progression over time.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 7
+        },
+        "dateGenerated": "2025-08-05"
+    },
+    {
+        "id": "3e56cef7-493f-4472-83ec-e0e6454af9e3",
+        "repositoryTitle": "rasbt / LLMs-from-scratch",
+        "repositoryUrl": "https://github.com/rasbt/LLMs-from-scratch",
+        "repositoryOwner": "rasbt",
+        "repositoryName": "LLMs-from-scratch",
+        "businessIdea": "Business Idea: \"LitGenie\"\n\n\"LitGenie\" is an AI-driven platform for authors and screenwriters. Using the technology from the LLMs-from-scratch project, we can create a web-based tool that assists in the creative writing process. This tool can generate character dialogues, suggest plot twists, and even help set the atmosphere for specific scenes. It can also propose different narratives based on genre, setting, or character profiles. Additionally, it can become a learning tool for novice writers, helping them understand how to build compelling stories and characters. Through a subscription model, users can access advanced features and personalized writing assistance.",
+        "ratings": {
+            "originality": 8,
+            "feasibility": 7,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-08-05"
+    },
+    {
+        "id": "eeca30f7-962f-45c7-93a6-eaca24b84c8e",
+        "repositoryTitle": "MaaAssistantArknights / MaaAssistantArknights",
+        "repositoryUrl": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+        "repositoryOwner": "MaaAssistantArknights",
+        "repositoryName": "MaaAssistantArknights",
+        "businessIdea": "Business Idea:\n\nWe could develop a comprehensive gaming assistant platform, beginning with the integration of MaaAssistantArknights. This platform will offer automated tools and aids for various popular games to enhance the gamers' experience. It will cater to daily tasks, quest reminders, optimization tips, strategy suggestions, and more to help gamers maximize their in-game efficiency. Additionally, the platform will support all clients, ensuring it's accessible to a broad gaming community. We could monetize through premium features, in-app purchases, and partnerships with game developers for promotional activities and exclusive content.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 8
+        },
+        "dateGenerated": "2025-08-05"
+    },
+    {
+        "id": "74b08339-fb84-46e9-9a40-4cf8cd013d93",
+        "repositoryTitle": "reflex-dev / reflex",
+        "repositoryUrl": "https://github.com/reflex-dev/reflex",
+        "repositoryOwner": "reflex-dev",
+        "repositoryName": "reflex",
+        "businessIdea": "Business Idea:\n\nWe will create a platform called \"HealthMonitor\" that offers personalized healthcare solutions. Using the Reflex project, we'll build a web application where users can log their daily health metrics like food intake, sleep hours, exercise done, and mental health status. Our system will analyze these data points and provide real-time feedback, suggestions, and reminders to promote a healthier lifestyle. \n\nIn addition, HealthMonitor will integrate with various health care providers and insurance companies, enabling users to schedule telehealth appointments, refill prescriptions, and manage insurance claims directly from the app. The convenience and customization offered by our platform will revolutionize personal health management, making it more efficient and engaging.",
+        "ratings": {
+            "originality": 6,
+            "feasibility": 8,
+            "marketPotential": 9,
+            "monetizationClarity": 7
+        },
+        "dateGenerated": "2025-08-05"
+    },
+    {
+        "id": "a14425df-49e5-4053-89c7-7ba683e7a850",
+        "repositoryTitle": "jellyfin / jellyfin",
+        "repositoryUrl": "https://github.com/jellyfin/jellyfin",
+        "repositoryOwner": "jellyfin",
+        "repositoryName": "jellyfin",
+        "businessIdea": "Business Idea: We could create a streaming platform called \"IndieFlix\" that specifically caters to indie filmmakers and audiences who love indie films. Leveraging Jellyfin's open-source media system, IndieFlix can offer a decentralized, customizable, and ad-free streaming experience. Filmmakers can set up their channels, upload their films, choose their subscription prices and directly connect with their audiences. Users will be able to discover a wide range of indie films, follow their favorite filmmakers, and enjoy a unique, personalized viewing experience.",
+        "ratings": {
+            "originality": 7,
+            "feasibility": 8,
+            "marketPotential": 7,
+            "monetizationClarity": 9
+        },
+        "dateGenerated": "2025-08-05"
+    },
+    {
+        "id": "4ee5fd60-652d-46af-a245-dc515e506fa2",
+        "repositoryTitle": "wg-easy / wg-easy",
+        "repositoryUrl": "https://github.com/wg-easy/wg-easy",
+        "repositoryOwner": "wg-easy",
+        "repositoryName": "wg-easy",
+        "businessIdea": "Business Idea: \"SecureNet VPN\"\n\nSecureNet VPN aims to provide an easy-to-use VPN solution for individuals and businesses looking for secure and private internet usage. Leveraging the open-source project, wg-easy, our platform will offer a simple and straightforward VPN setup and administration with a user-friendly Web UI. We add value by offering additional services such as 24/7 customer support, tailor-made privacy solutions for businesses, and regular security updates. We can also provide premium services like advanced performance analytics and customizable security features, catering to specific customer needs. SecureNet VPN brings the power and security of WireGuard VPN to everyday internet users without the complexity.",
+        "ratings": {
+            "originality": 6,
+            "feasibility": 8,
+            "marketPotential": 8,
+            "monetizationClarity": 7
+        },
+        "dateGenerated": "2025-08-05"
     }
 ]
